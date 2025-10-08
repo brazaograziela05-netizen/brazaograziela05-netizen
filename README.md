@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Graziela Brazão 👋</h1>
 
 <p align="center">
-  Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.<br/>
+  Desenvolvedora apaixonada por tecnologia, aprendizado contínuo e projetos que fazem a diferença. 🚀<br/>
   Bem-vindo(a) ao meu perfil GitHub!
 </p>
 
@@ -43,7 +43,7 @@
 | CSS           | 2                          |
 | Outros        | 1                          |
 
-> **Obs:** Esses números são exemplos! Atualize com os seus dados reais.
+> **Nota:** Estes números são exemplos. Atualize conforme seus repositórios.
 
 ---
 
