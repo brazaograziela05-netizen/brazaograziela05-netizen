@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Graziela 👋</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, open source e soluções criativas. 🚀<br/>
@@ -9,8 +9,8 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando com: **[tecnologias/empresa]**
-- 🌱 Aprendendo mais sobre: **[tecnologia ou área]**
+- 🔭 Atualmente trabalhando com: **microsoft**
+- 🌱 Aprendendo mais sobre: **linguagem c**
 - 💬 Pergunte-me sobre: **JavaScript, Python, APIs, Git...**
 - ⚡ Curiosidade: Amo desafios e transformar ideias em código.
 
