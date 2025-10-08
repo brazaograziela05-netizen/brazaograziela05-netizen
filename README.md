@@ -13,6 +13,8 @@
 - 🌱 Aprendendo mais sobre: **linguagem c**
 - 💬 Pergunte-me sobre: **JavaScript, Python, APIs, Git...**
 - ⚡ Curiosidade: Amo desafios e transformar ideias em código.
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brazaograziela05@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grazibrazz)
 
 ---
 
